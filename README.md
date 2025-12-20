@@ -1,68 +1,64 @@
 <div align="center">
   <br />
 
+  <div>
+    <img alt="React" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+    <img alt="Puter.js" src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white">
+  </div>
+
   <h3 align="center">AI Resume Analyzer</h3>
 
   <p align="center">
-    An AI-powered web application to analyze resumes, generate ATS scores, and provide personalized feedback.
+    A web application that helps users upload, manage, and evaluate resumes with structured scoring and detailed feedback.
   </p>
 </div>
 
 ---
 
-## 📋 Table of Contents
-
-1. ✨ Introduction  
-2. ⚙️ Tech Stack  
-3. 🔋 Features  
-4. 🤸 Quick Start  
-
----
-
 ## ✨ Introduction
 
-AI Resume Analyzer is a modern web application that allows users to upload resumes, store them securely, and evaluate them against job descriptions using AI-powered analysis. The platform generates ATS compatibility scores along with personalized feedback to help candidates improve their resumes.
+AI Resume Analyzer is a modern resume evaluation platform designed to simplify how candidates review and improve their resumes. Users can securely upload multiple resumes, organize them in one place, and assess how well they align with specific job descriptions.
 
-The application is built with a clean, reusable UI and runs entirely on the client side without requiring a traditional backend.
+The application focuses on clean design, smooth navigation, and a reusable component structure to deliver a fast and intuitive user experience across all devices.
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **React** – Component-based UI development  
+- **React** – Component-based user interface  
 - **React Router** – Client-side routing  
-- **TypeScript** – Type-safe JavaScript  
+- **TypeScript** – Type safety and better maintainability  
 - **Tailwind CSS** – Utility-first styling  
-- **Puter.js** – Authentication, storage, and AI services  
-- **Vite** – Fast development and build tooling  
-- **Zustand** – Lightweight global state management  
+- **Puter.js** – Authentication, file storage, and services  
+- **Vite** – Fast development environment  
+- **Zustand** – Lightweight state management  
 
 ---
 
 ## 🔋 Features
 
-- 🔐 **Client-side Authentication** using Puter.js  
-- 📄 **Resume Upload & Secure Storage**  
-- 🤖 **AI-powered Resume Evaluation & ATS Scoring**  
-- 📝 **Personalized Feedback for Job Matching**  
-- ♻️ **Reusable & Modular Component Architecture**  
+- 🔐 **Secure Client-Side Authentication**  
+- 📄 **Resume Upload & Management**  
+- 📊 **Structured Resume Evaluation & Scoring**  
+- 📝 **Detailed, Actionable Feedback**  
+- ♻️ **Reusable and Modular Components**  
 - 📱 **Fully Responsive Design**  
-- 🎨 **Modern UI/UX with Tailwind CSS**  
+- 🎨 **Modern UI with Tailwind CSS**  
 
 ---
 
-## 🤸 Quick Start
+## 🤸 Getting Started
 
 ### Prerequisites
 
-Ensure you have the following installed:
+Ensure the following are installed:
 
-- Git  
 - Node.js  
 - npm  
 
-### Clone the Repository
+### Installation
 
 ```bash
-git clone https://github.com/adrianhajdin/ai-resume-analyzer.git
-cd ai-resume-analyzer
+npm install
