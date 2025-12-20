@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59143990-4da1-4500-8781-8c307a8c3c5b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zv7cyVgwGBqF2guwry1Jzu9dYe" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Junie&quot;: &quot;Junie&quot;,
+    &quot;Notification.DoNotAsk-Junie&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/adrianhajdin/WebstormProjects/ai-resume-analyzer&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/adrianhajdin/WebstormProjects/ai-resume-analyzer/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="npm dev" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59143990-4da1-4500-8781-8c307a8c3c5b" name="Changes" comment="" />
+      <created>1752599775339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752599775339</updated>
+      <workItem from="1752599776352" duration="216000" />
+      <workItem from="1752600000496" duration="100000" />
+      <workItem from="1752600106999" duration="253000" />
+      <workItem from="1752600367674" duration="19000" />
+      <workItem from="1752600393125" duration="62000" />
+      <workItem from="1752600462420" duration="19000" />
+      <workItem from="1752600489002" duration="42000" />
+      <workItem from="1752600585280" duration="20000" />
+      <workItem from="1752600615591" duration="1054000" />
+      <workItem from="1752601935235" duration="1000" />
+      <workItem from="1752601993976" duration="9000" />
+      <workItem from="1752602027739" duration="8000" />
+      <workItem from="1752602071665" duration="71000" />
+      <workItem from="1752602150699" duration="16000" />
+      <workItem from="1752602173519" duration="37000" />
+      <workItem from="1752602217852" duration="16000" />
+      <workItem from="1752602240370" duration="23000" />
+      <workItem from="1752602270666" duration="22000" />
+      <workItem from="1752602299489" duration="310000" />
+      <workItem from="1752658899323" duration="51000" />
+      <workItem from="1752660005824" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
