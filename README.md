@@ -117,9 +117,9 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## <a name="links">🔗 Assets</a>
 
-Assets and snippets used in the project can be found in the **[video kit](https://jsmastery.com/video-kit/8fcd696f-9147-492c-bb96-a4d8108f849c)**.
+Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/resumind-kit)**.
 
-<a href="https://jsmastery.com/video-kit/8fcd696f-9147-492c-bb96-a4d8108f849c" target="_blank">
+<a href="https://jsm.dev/resumind-kit" target="_blank">
   <img src="public/readme/videokit.webp" alt="Video Kit Banner">
 </a>
 
