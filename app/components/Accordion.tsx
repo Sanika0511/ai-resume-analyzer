@@ -72,7 +72,7 @@ export const AccordionItem: React.FC<AccordionItemProps> = ({
                                                                 className = "",
                                                             }) => {
     return (
-        <div className={`overflow-hidden border-b border-gray-200 ${className}`}>
+        <div className={`overflow-hidden border-b border-slate-700 ${className}`}>
             {children}
         </div>
     );
@@ -102,7 +102,7 @@ export const AccordionHeader: React.FC<AccordionHeaderProps> = ({
                 "rotate-180": isActive,
             })}
             fill="none"
-            stroke="#98A2B3"
+            stroke="#10b981"
             viewBox="0 0 24 24"
             xmlns="http://www.w3.org/2000/svg"
         >
@@ -123,9 +123,9 @@ export const AccordionHeader: React.FC<AccordionHeaderProps> = ({
         <button
             onClick={handleClick}
             className={`
-        w-full px-4 py-3 text-left
+        w-full px-4 py-3 text-left text-slate-100 font-medium
         focus:outline-none
-        transition-colors duration-200 flex items-center justify-between cursor-pointer
+        transition-colors duration-200 flex items-center justify-between cursor-pointer hover:bg-slate-700/30
         ${className}
       `}
         >

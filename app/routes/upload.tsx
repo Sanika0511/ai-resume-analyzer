@@ -87,11 +87,11 @@ const Upload = () => {
                     <h1>Smart feedback for your dream job</h1>
                     {isProcessing ? (
                         <>
-                            <h2>{statusText}</h2>
+                            <h2 className="text-slate-300">{statusText}</h2>
                             <img src="/images/resume-scan.gif" className="w-full" />
                         </>
                     ) : (
-                        <h2>Drop your resume for an ATS score and improvement tips</h2>
+                        <h2 className="text-slate-300\">Drop your resume for an ATS score and improvement tips</h2>
                     )}
                     {!isProcessing && (
                         <form id="upload-form" onSubmit={handleSubmit} className="flex flex-col gap-4 mt-8">
